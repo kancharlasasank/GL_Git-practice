@@ -1,3 +1,3 @@
 # GL_Git-practice
 A practice purpose repo .
-Sasank hotfix :fetch and pull scenario.
+Sasank hotfix :dashboard login change(fetch and pull scenario).
